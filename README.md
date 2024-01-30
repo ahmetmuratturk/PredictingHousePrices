@@ -17,7 +17,7 @@ This project focuses on predicting house prices using machine learning technique
 
 ## Dataset
 
-The dataset used in this project is sourced from [provide_dataset_source]. It includes [number_of_samples] samples and [number_of_features] features. The target variable is 'SalePrice,' representing the sale prices of houses.
+The dataset used in this project is sourced from Kaggle(#https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques). It includes [number_of_samples] samples and [number_of_features] features. The target variable is 'SalePrice,' representing the sale prices of houses.
 
 ## Exploratory Data Analysis (EDA)
 
