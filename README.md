@@ -16,10 +16,8 @@ This project focuses on predicting house prices using machine learning technique
 - [License](#license)
 
 ## Dataset
-## Dataset
 
 The dataset used in this project is sourced from the [Kaggle House Prices: Advanced Regression Techniques competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques). It includes a total of 1460 samples and 81 features. The target variable is 'SalePrice,' representing the sale prices of houses.
-
 
 ## Exploratory Data Analysis (EDA)
 
@@ -27,7 +25,8 @@ Exploratory Data Analysis was conducted to gain insights into feature distributi
 
 ## Feature Engineering
 
-Feature engineering involved normalizing numerical features and handling missing values using the [imputation_strategy] strategy. Further details can be found in the [documentation](#documentation).
+Feature engineering involved normalizing numerical features and handling missing values using the [imputation_strategy] strategy. Further details can be found in the [documentation](documentation.md).
+
 
 ## Model Selection
 
